@@ -6,7 +6,7 @@ I am the head of Composite AI lab and more. Apart from manager's things, we with
 
 My first child is EPDE https://github.com/ITMO-NSS-team/EPDE - it is an equation discovery algorithm. The childs are growing and now Michail Maslyaev (@Maslyaev) is doing all the things for it.
 
-My second child is TEDEouS https://github.com/ITMO-NSS-team/torch_DE_solver - it is an unusual solver, which handles ALL the equation that EPDE could discover.
+My second child is TEDEouS https://github.com/ITMO-NSS-team/torch_DE_solver - it is an unusual solver, which handles ALL the equations that EPDE could discover.
 
 My hobby is wave propagation in periodic structures (I have one paper with around 100 citations) and mathematical physics/modelling overall.
 
