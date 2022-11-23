@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**SuperSashka/SuperSashka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am SuperSashka. Super because I am super. Sashka - because it is a Russian shorthand for Alexander. Sometimes they call me Alexander Hvatov.
 
-Here are some ideas to get you started:
+I am the head of Composite AI lab and more. Apart from manager's things, we with my team doing different differential equation-relared magic. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My first child is EPDE https://github.com/ITMO-NSS-team/EPDE - it is an equation discovery algorithm. The childs are growing and now Michail Maslyaev (@Maslyaev) is doing all the things for it.
+
+My second child is TEDEouS https://github.com/ITMO-NSS-team/torch_DE_solver - it is an unusual solver, which handles ALL the equation that EPDE could discover.
+
+My hobby is wave propagation in periodic structures (I have one paper with around 100 citations) and mathematical physics/modelling overall.
+
+I am mostly scientist not programmer, so here is my Scholar https://scholar.google.ru/citations?user=y9YJuk0AAAAJ
+
+
+
+- 🔭 I’m currently working on TEDEouS
+- 🌱 I’m currently learning differential equation symmetries, Lie groups.
+- 💬 Ask me about anything you could find here around.
+- 📫 How to reach me: alex_hvatov [at] itmo.ru
+- ⚡ Fun fact: being head of the lab is not fun.
