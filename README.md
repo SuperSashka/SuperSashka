@@ -4,7 +4,7 @@ I am SuperSashka. Super because I am super. Sashka - because it is a Russian sho
 
 I am the head of Composite AI lab and part of the NSS Lab (https://itmo-nss-team.github.io). Apart from manager's things, we with my team doing different differential equation-relared magic. 
 
-My first child is EPDE https://github.com/ITMO-NSS-team/EPDE - it is an equation discovery algorithm. The childs are growing and now Michail Maslyaev (@Maslyaev) is doing all the things for it.
+My first child is EPDE https://github.com/ITMO-NSS-team/EPDE - it is an equation discovery algorithm. The childs are growing fast and now Michail Maslyaev (@Maslyaev) is doing all the things for it.
 
 My second child is TEDEouS https://github.com/ITMO-NSS-team/torch_DE_solver - it is an unusual solver, which handles ALL the equations that EPDE could discover.
 
